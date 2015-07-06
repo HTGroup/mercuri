@@ -1,0 +1,20 @@
+{
+  "name": "PMVF Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": "",
+  "window": {
+    "toolbar": true,
+    "frame": true,
+    "show": true,
+    "min_width": 1050,
+    "height": 500,
+    "width": 1200,
+    "max_width": 1920
+  },
+  "license": "ISC",
+  "dependencies": {
+    "pretty-bytes": "^1.0.2"
+  }
+}
